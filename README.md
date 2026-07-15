@@ -90,3 +90,14 @@ Feel free to submit PRs to expand this list with more projects, tools, or compar
 **Last updated**: July 2026  
 *User analytics and privacy regulations evolve quickly — always check the latest on official sites and GitHub repos.*
 
+
+##  Star History
+<div align="center">
+<a href="https://www.star-history.com/?repos=ishandutta2007%2FAwesome-User-Interaction-Capturing&type=date&legend=bottom-right">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-User-Interaction-Capturing&type=date&theme=dark&legend=bottom-right" />
+<source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-User-Interaction-Capturing&type=date&legend=bottom-right" />
+<img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-User-Interaction-Capturing&type=date&legend=bottom-right" />
+</picture>
+</a>
+</div>
