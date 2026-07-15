@@ -38,16 +38,12 @@ These provide session replay, heatmaps, analytics, and interaction tracking with
 
 ### Featured Projects
 
-- **[PostHog](https://posthog.com)** — Leading open-source platform with session replay, autocapture, heatmaps (via plugins), product analytics, and feature flags. Self-host or cloud.<grok-card data-id="7d3dc1" data-type="citation_card" data-plain-type="render_inline_citation" ></grok-card>
-  - GitHub: [PostHog/posthog](https://github.com/PostHog/posthog)
+- **[Umami](https://umami.is)** [![Stars](https://img.shields.io/github/stars/umami-software/umami?style=social&color=white)](https://github.com/umami-software/umami/stargazers) — Simple, self-hosted web analytics with clean dashboards.
+- **[PostHog](https://posthog.com)** [![Stars](https://img.shields.io/github/stars/PostHog/posthog?style=social&color=white)](https://github.com/PostHog/posthog/stargazers) — Leading open-source platform with session replay, autocapture, heatmaps, product analytics, and feature flags. Self-host or cloud.
+- **[Matomo](https://matomo.org)** [![Stars](https://img.shields.io/github/stars/matomo-org/matomo?style=social&color=white)](https://github.com/matomo-org/matomo/stargazers) — Full-featured open-source analytics with heatmaps, session recordings, and privacy controls. Self-hosted option is powerful.
+- **[Plausible](https://plausible.io)** [![Stars](https://img.shields.io/github/stars/plausible/analytics?style=social&color=white)](https://github.com/plausible/analytics/stargazers) — Lightweight privacy-focused analytics (web-focused, extensible).
+- **[OpenReplay](https://openreplay.com)** [![Stars](https://img.shields.io/github/stars/openreplay/openreplay?style=social&color=white)](https://github.com/openreplay/openreplay/stargazers) — Open-source session replay and analytics suite with dev tools, rage click detection, and performance monitoring.
 
-- **[Matomo](https://matomo.org)** — Full-featured open-source analytics with heatmaps, session recordings, and privacy controls. Self-hosted option is powerful.
-
-- **[OpenReplay](https://openreplay.com)** — Open-source session replay and analytics suite with dev tools, rage click detection, and performance monitoring.
-
-- **[Plausible](https://plausible.io)** — Lightweight privacy-focused analytics (web-focused, extensible).
-
-- **[Umami](https://umami.is)** — Simple, self-hosted web analytics with clean dashboards.
 
 ### Additional Open-Source Tools
 - **rrweb** — Core library for web session recording and replay (used in many tools).
