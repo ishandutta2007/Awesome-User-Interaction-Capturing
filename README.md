@@ -1,3 +1,5 @@
+![Banner](assets/banner.svg)
+
 # Awesome-User-Interaction-Capturing
 ## Top User Interaction Capturing and Analytics Tools & Open-Source Alternatives
 
