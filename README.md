@@ -1,7 +1,7 @@
 <!-- SEO: awesome list, user interaction, session replay, heatmaps, product analytics, open-source analytics, SaaS analytics, Matomo, PostHog, Hotjar alternatives -->
 ![Banner](assets/banner.svg)
 
-🚀 # Awesome-User-Interaction-Capturing 🚀
+# 🚀 Awesome-User-Interaction-Capturing 🚀
 
 <div align="center">
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
@@ -15,11 +15,11 @@ A curated guide to leading **SaaS/cloud-hosted user interaction capturing and an
 
 ---
 
-☁️ ## SaaS / Cloud-Hosted User Interaction Tools
+## ☁️ SaaS / Cloud-Hosted User Interaction Tools
 
 Popular platforms for session replay, heatmaps, rage clicks, user behavior analytics, and product experience insights.
 
-🏆 ### Leading Options & Notables
+### 🏆 Leading Options & Notables
 
 | Tool | Description | Pricing | Free Tier Limit | Company Size / Valuation |
 |---|---|---|---|---|
@@ -40,11 +40,11 @@ These tools help identify UX issues, understand user journeys, and optimize prod
 
 ---
 
-🔓 ## Open-Source / Self-Hosted Alternatives
+## 🔓 Open-Source / Self-Hosted Alternatives
 
 These provide session replay, heatmaps, analytics, and interaction tracking with complete data ownership.
 
-⭐ ### Featured Projects
+### ⭐ Featured Projects
 
 - **[Umami](https://umami.is)** [![Stars](https://img.shields.io/github/stars/umami-software/umami?style=social&color=white)](https://github.com/umami-software/umami/stargazers) — Simple, self-hosted web analytics with clean dashboards.
 - **[PostHog](https://posthog.com)** [![Stars](https://img.shields.io/github/stars/PostHog/posthog?style=social&color=white)](https://github.com/PostHog/posthog/stargazers) — Leading open-source platform with session replay, autocapture, heatmaps, product analytics, and feature flags. Self-host or cloud.
@@ -63,7 +63,7 @@ These provide session replay, heatmaps, analytics, and interaction tracking with
 
 ---
 
-⚖️ ## Comparison
+## ⚖️ Comparison
 
 | Aspect              | SaaS Platforms                        | Open-Source / Self-Hosted                  |
 |---------------------|---------------------------------------|--------------------------------------------|
@@ -75,7 +75,7 @@ These provide session replay, heatmaps, analytics, and interaction tracking with
 
 ---
 
-🏁 ## Getting Started
+## 🏁 Getting Started
 
 1. Define requirements (session replay, heatmaps, autocapture, mobile support).
 2. Deploy **PostHog** for a full open-source suite or **OpenReplay** for focused replay capabilities.
@@ -83,7 +83,7 @@ These provide session replay, heatmaps, analytics, and interaction tracking with
 4. Host on Docker/Kubernetes and integrate SDKs into your apps.
 5. Focus on data retention policies and GDPR compliance.
 
-🤝 ## Contributing
+## 🤝 Contributing
 
 Feel free to submit PRs to expand this list with more projects, tools, or comparisons!
 
@@ -91,7 +91,7 @@ Feel free to submit PRs to expand this list with more projects, tools, or compar
 *User analytics and privacy regulations evolve quickly — always check the latest on official sites and GitHub repos.*
 
 
-##  Star History
+## ⭐  Star History
 <div align="center">
 <a href="https://www.star-history.com/?repos=ishandutta2007%2FAwesome-User-Interaction-Capturing&type=date&legend=bottom-right">
 <picture>
