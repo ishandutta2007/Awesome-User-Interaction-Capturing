@@ -1,3 +1,4 @@
+<!-- SEO: awesome list, user interaction, session replay, heatmaps, product analytics, open-source analytics, SaaS analytics, Matomo, PostHog, Hotjar alternatives -->
 ![Banner](assets/banner.svg)
 
 🚀 # Awesome-User-Interaction-Capturing 🚀
