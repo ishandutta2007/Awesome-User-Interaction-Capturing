@@ -11,15 +11,22 @@ A curated guide to leading **SaaS/cloud-hosted user interaction capturing and an
 
 Popular platforms for session replay, heatmaps, rage clicks, user behavior analytics, and product experience insights.
 
-### Leading Options
-- **[PostHog](https://posthog.com)** — All-in-one with session replay, product analytics, feature flags, and A/B testing.
-- **[Matomo](https://matomo.org)** — Privacy-focused analytics with heatmaps and session recordings.
-- **[Mixpanel](https://mixpanel.com)** & **[Amplitude](https://amplitude.com)** — Event-based behavioral analytics with strong visualization.
-- **[LogRocket](https://logrocket.com)** — Session replay with debugging and performance insights.
-- **[FullStory](https://fullstory.com)**, **[Contentsquare](https://contentsquare.com)**, **[Glassbox](https://glassbox.com)** — Enterprise session replay and digital experience analytics.
-- **[Smartlook](https://smartlook.com)** & **[Pendo](https://pendo.io)** — Mobile/web heatmaps, recordings, and in-app guidance.
+### Leading Options & Notables
 
-**Other notables**: Hotjar, Microsoft Clarity (freemium).
+| Tool | Description | Pricing | Free Tier Limit | Company Size / Valuation |
+|---|---|---|---|---|
+| **Microsoft Clarity** | Session replay and heatmaps. | Free | Unlimited | ~$3 Trillion (Microsoft) |
+| **Hotjar** | User behavior analytics and feedback tool. | Freemium / Usage-based | 35 daily sessions | ~$5.4 Billion (Contentsquare) |
+| **[Contentsquare](https://contentsquare.com)**| Enterprise session replay and digital experience analytics. | Custom / Enterprise | None | ~$5.4 Billion |
+| **[Pendo](https://pendo.io)** | Mobile/web heatmaps, recordings, and in-app guidance. | Freemium / Usage-based | 500 MAUs | ~$2.6 Billion |
+| **[FullStory](https://fullstory.com)** | Enterprise session replay and digital experience analytics. | Freemium / Custom | 30,000 sessions/mo | ~$1.8 Billion |
+| **[Amplitude](https://amplitude.com)** | Event-based behavioral analytics with strong visualization. | Freemium / Usage-based | 10,000 MTUs, 2M events/mo | ~$1.5 Billion |
+| **[Mixpanel](https://mixpanel.com)** | Event-based behavioral analytics with strong visualization. | Freemium / Usage-based | 20M events/mo | ~$1.05 Billion |
+| **[PostHog](https://posthog.com)** | All-in-one with session replay, product analytics, feature flags, and A/B testing. | Freemium / Usage-based | 1M events, 5k replays/mo | ~$1 Billion |
+| **[Glassbox](https://glassbox.com)** | Enterprise session replay and digital experience analytics. | Custom / Enterprise | None | ~$400 Million |
+| **[LogRocket](https://logrocket.com)** | Session replay with debugging and performance insights. | Freemium / Usage-based | 1,000 sessions/mo | ~$200 Million |
+| **[Smartlook](https://smartlook.com)** | Mobile/web heatmaps, recordings, and in-app guidance. | Freemium / Usage-based | 3,000 sessions/mo | ~$50 Million |
+| **[Matomo](https://matomo.org)** | Privacy-focused analytics with heatmaps and session recordings. | Paid (Cloud) / Free (Self-hosted) | None (Cloud) | ~$10 Million |
 
 These tools help identify UX issues, understand user journeys, and optimize product engagement.
 
